@@ -31,7 +31,7 @@ end)
 Tab1Section:NewButton("HATGOD (R6)","9 Fedoras",function()
 end)
 
-Tab1Section:NewButton("BUILD LE POINT","",function()
+Tab1Section:NewButton("BUILD LE BOAT","",function()
 end)
 
 Tab1Section:NewButton("UTG","Hub",function()
